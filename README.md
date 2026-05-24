@@ -38,7 +38,7 @@ The primary audience is the full demographic range of Maricopa County, with deli
 
 ## Tools
 
-- **Adobe Express** — primary composition, layout, typography
+- **Adobe** — primary composition, layout, typography
 - **Google Sheets** — graph generation, then exported transparent and restyled in Adobe Express
 
 ## What I'd do differently
