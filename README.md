@@ -4,8 +4,6 @@ A public-information infographic for Maricopa County, Arizona, designed to commu
 
 ![Maricopa County Heat Hazards Infographic](maricopa-county-heat-hazards.png)
 
-> *Add the infographic image (the PNG export from Adobe Express) to this repo and update the filename above.*
-
 ## The headline number
 
 **Heat-related deaths in Maricopa County rose from 61 in 2014 to 645 in 2023** — more than a tenfold increase in a single decade (Maricopa County Department of Public Health, 2024). The infographic exists because most people in the county do not know this.
